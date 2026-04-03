@@ -50,5 +50,5 @@ Real Size = (Pixel Size × Distance) / Focal Length
 
 
   Technologies Used
-- Python (YOLO, OpenCV)
 - Arduino (ESP32)
+- Python (YOLO, OpenCV)
